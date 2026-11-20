@@ -171,7 +171,7 @@ function Welcome() {
                             <div className="h-4 w-4 animate-spin rounded-full border-2 border-[#DF2531]/20 border-t-[#DF2531]"></div>
 
                             <p className="text-sm tracking-wider text-white/70">
-                                Preparing your portfolio...
+                                Preparing Portfolio...
                             </p>
 
                         </div>
